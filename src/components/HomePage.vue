@@ -152,5 +152,5 @@ export default {
 
 #carousel-img {
   max-height: 45vh;
-},
+}
 </style>
