@@ -10,6 +10,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "npm": "^9.4.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
